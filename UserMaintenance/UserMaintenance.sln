@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMaintenance", "UserMaintenance\UserMaintenance.csproj", "{DE40AD8B-5431-438A-AFAA-F85D57C68524}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserMaintenance", "UserMaintenance\UserMaintenance.csproj", "{DE40AD8B-5431-438A-AFAA-F85D57C68524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelExport", "ExcelExport\ExcelExport.csproj", "{B6610B30-9993-4ABE-8A3C-3900D58DE0AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DE40AD8B-5431-438A-AFAA-F85D57C68524}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE40AD8B-5431-438A-AFAA-F85D57C68524}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE40AD8B-5431-438A-AFAA-F85D57C68524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6610B30-9993-4ABE-8A3C-3900D58DE0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6610B30-9993-4ABE-8A3C-3900D58DE0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6610B30-9993-4ABE-8A3C-3900D58DE0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6610B30-9993-4ABE-8A3C-3900D58DE0AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
