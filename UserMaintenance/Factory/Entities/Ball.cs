@@ -11,9 +11,14 @@ namespace Factory.Entities
 {
     public class Ball : Toy
     {
+        public SolidBrush BallColor { get; private set; }
+        public Ball(Color color)
+        {
+            this.BallColor = new SolidBrush(color);
+        }
         protected override void DrawImage(Graphics g)
         {
-            g.FillEllipse(new SolidBrush(Color.Blue), 0, 0, this.Width, this.Height);
+            g.FillEllipse(BallColor, 0, 0, this.Width, this.Height);
         }
     }
 }
