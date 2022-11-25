@@ -7,3 +7,13 @@ C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestEx
 C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csproj.GenerateResource.cache
 C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.exe
 C:\Users\dburk\source\repos\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.pdb
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.exe.config
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.exe
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\bin\Debug\UnitTestExample.pdb
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csproj.AssemblyReference.cache
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.Form1.resources
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.Properties.Resources.resources
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csproj.GenerateResource.cache
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.exe
+C:\Users\gfekxg\Source\Repos\IRF\UnitTest\UnitTestExample\UnitTestExample\obj\Debug\UnitTestExample.pdb
