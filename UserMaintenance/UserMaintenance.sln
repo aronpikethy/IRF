@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32901.215
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserMaintenance", "UserMaintenance\UserMaintenance.csproj", "{DE40AD8B-5431-438A-AFAA-F85D57C68524}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{E9C75DD1-9EE1-42F3-8A7D-D1D157F01BC3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAR", "VAR\VAR.csproj", "{4AD1FA3E-D3FA-4BA1-AF01-D317E95C475B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mikroszimulacio", "Mikroszimulacio\Mikroszimulacio.csproj", "{1A3E6F78-C893-40F9-9985-51DEE7615B3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4AD1FA3E-D3FA-4BA1-AF01-D317E95C475B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AD1FA3E-D3FA-4BA1-AF01-D317E95C475B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AD1FA3E-D3FA-4BA1-AF01-D317E95C475B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3E6F78-C893-40F9-9985-51DEE7615B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3E6F78-C893-40F9-9985-51DEE7615B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3E6F78-C893-40F9-9985-51DEE7615B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3E6F78-C893-40F9-9985-51DEE7615B3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
